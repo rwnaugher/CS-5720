@@ -1,4 +1,2 @@
-# Ryan Naugher - 700677258
+# Ryan Naugher - 700677258 - CS 5720
 I added comments within the python notebook explaining what I did to achieve the results in the code
-CS-5720
-Assignments & Project for Deep Learning & Neural Networks
