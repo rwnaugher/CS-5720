@@ -1,6 +1,4 @@
 # Ryan Naugher - 700677258 - CS 5720
-The recording/explanation for assignment 2 and assignment 3 is in the mp4 format titled 'Assignment2-Recording' & 'Assignment3-Recording'
-Here is a screenshot of the 'output.txt' file my zoom recording stopped before I had a chance to share this with you.
-![image](https://user-images.githubusercontent.com/105573676/213333246-2683a6ce-7f6d-4142-8799-b15963226d03.png)
+The recording/explanation for assignment 3 and assignment 4 is in the mp4 format titled 'Assignment3-Recording' & 'Assignment4-Recording'
 
-I added comments within the python notebook explaining what I did to achieve the results in the code
+I added comments within the python notebook explaining what I did to achieve the results in the code.
