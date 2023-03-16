@@ -1,4 +1,4 @@
 # Ryan Naugher - 700677258 - CS 5720
-The recording/explanation for assignment 3 and assignment 4 is in the mp4 format titled 'Assignment3-Recording' & 'Assignment4-Recording'
+Assignment 6 has been posted, I was not sure if I needed a recording of an explanation or not, I can make one if needed.
 
 I added comments within the python notebook explaining what I did to achieve the results in the code.
